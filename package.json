@@ -15,7 +15,8 @@
   },
   "dependencies": {
     "bosch-smart-home-bridge": ">0.2.12",
-    "selfsigned": "^1.10.8"
+    "selfsigned": "^1.10.8",
+    "fakegato-history":"^0.6.3"
   },
   "devDependencies": {
     "@types/node": "^14.0.13",
